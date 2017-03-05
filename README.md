@@ -12,12 +12,12 @@ Como se trata de um script contruído para o bash, é necessário que o usuário
 ## INSTRUÇÕES
 Com o arquivo shell script salvo em seu computador, você deverá atribuir as permissões de execução necessárias para o funcionamento do mesmo. Caso você esteja utilizando uma distribuição Linux baseada no Ubuntu, você pode executar o seguinte comando no terminal:
 
-sudo chmod +x horario_trampolim.sh
+**sudo chmod +x horario_trampolim.sh**
 
 Lembrando que você deve estar na pasta onde o arquivo está presente.
 Para executar o programa, basta digitar:
 
-*./horario_trampolim.sh*
+**./horario_trampolim.sh**
 
 Se quiser, você também pode mover o script para alguma pasta que esteja dentro da variável de ambiente $PATH, e tornar o script em um comando do sistema, podendo ser executado em qualquer pasta do sistema.
 
